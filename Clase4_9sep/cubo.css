@@ -4,7 +4,7 @@
 body{
     background-color: gray;
 }
-.cubo3d{
+.caja3D{
     perspective:2000px;
     perspective-origin: 10px -1000px;
 }
